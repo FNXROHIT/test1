@@ -5,6 +5,7 @@ export default class EmloyeeInfo extends LightningElement {
     @track age;
     @track salary;
     @track show=true;
+    //hello 1
 
 
     nameHandler(event)
